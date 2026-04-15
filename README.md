@@ -6,10 +6,10 @@ Wii Studio is still in devlopment. More informations may come soon.
 
 # Progression
 
-• Wii IDE | 🛠️
-• Viewport and editor | 🛠️
-• Dolphin integration | ❌
-• Addons | ❌
+• Wii IDE | 🛠️  
+• Viewport and editor | 🛠️  
+• Dolphin integration | ❌  
+• Addons | ❌  
 
 # Q&A
 **How will i be able to work on Wii Studio ?**
